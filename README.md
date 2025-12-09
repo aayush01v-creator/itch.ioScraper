@@ -1,4 +1,4 @@
-# Unity WebGL Game Capture Tool
+# ThreeJs, Unity WebGL Game Capture Tool
 
 ## Overview
 This toolset provides a robust solution for capturing Unity WebGL games (specifically from Itch.io) for offline play. It handles common challenges like cross-origin `iframe` embedding, dynamic asset loading, and large binary file (WASM/Data) retrieval.
